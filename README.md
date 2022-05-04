@@ -1,4 +1,4 @@
-### Hi there 👋
+### Contact me on discord:  👋
 [![Discord Presence](https://lanyard.cnrad.dev/api/961414521279348807)](https://discord.com/users/961414521279348807)
 
 <a href="https://www.youtube.com/channel/UCrjqgRiBweGKfzGeA3BZ3yA/" alt="youtube logo">

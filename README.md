@@ -1,9 +1,7 @@
 ### Contact me on discord:  👋
 [![Discord Presence](https://lanyard.cnrad.dev/api/961414521279348807)](https://discord.com/users/961414521279348807)
 
-<a href="https://www.youtube.com/channel/UCrjqgRiBweGKfzGeA3BZ3yA/" alt="youtube logo">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+
 
 
 ---

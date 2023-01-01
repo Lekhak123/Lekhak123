@@ -1,5 +1,5 @@
 ### Discord:  
-[![Discord Presence](https://lanyard.cnrad.dev/api/961414521279348807)](https://discord.com/users/961414521279348807)
+[![Discord Presence](https://lanyard.cnrad.dev/api/961414521279348807?theme=dark&bg=0c1332&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/961414521279348807)
 
 
 

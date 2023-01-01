@@ -10,13 +10,9 @@
 
   
 ## Libraries
-
 [![florida_man](https://github-readme-stats.vercel.app/api/pin/?username=ruriko123&theme=radical&repo=florida_man&icon_color=1FFD26&title_color=FF6666&text_color=888&card_width=500&hide_border=enable)](https://github.com/ruriko123/florida_man)
 [![text-to-img-craiyon-scrapper](https://github-readme-stats.vercel.app/api/pin/?username=ruriko123&repo=text-to-img-craiyon-scrapper&icon_color=1FFD26&theme=radical&title_color=FF6666&text_color=888&card_width=500&hide_border=disable)](https://github.com/ruriko123/text-to-img-craiyon-scrapper)
 
 ---
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ruriko123&include_all_commits=true&theme=tokyonight&show_icons=true)
-
----
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ruriko123)](https://github.com/ruriko123)

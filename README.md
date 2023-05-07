@@ -1,9 +1,5 @@
-### Discord:  
-[![Discord Presence](https://lanyard.cnrad.dev/api/961414521279348807?theme=radical&bg=0c1332&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/961414521279348807)
 
 
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 [![Top Langs](http://github-readme-stats-ruriko123.vercel.app/api/top-langs/?username=ruriko123&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ruriko123/github-readme-stats) 

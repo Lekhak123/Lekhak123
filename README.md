@@ -2,7 +2,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](http://github-readme-stats-ruriko123.vercel.app/api/top-langs/?username=ruriko123&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ruriko123/github-readme-stats) 
+[![Top Langs](http://github-readme-stats-ruriko123.vercel.app/api/top-langs/?username=ruriko123&langs_count=40&layout=compact&theme=tokyonight)](https://github.com/ruriko123/github-readme-stats) 
 
   
 ## Libraries
